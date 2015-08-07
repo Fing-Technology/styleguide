@@ -5,7 +5,7 @@ var exec = require('child_process').exec,
 	watcher = require('./modules/watcher'),
 	livereloader = require('./modules/livereloader'),
 	utils = require('./modules/utils'),
-	PORT = normalizePort(process.env.STYLEGUIDE_PORT || process.env.PORT || '9241');
+	PORT = normalizePort(process.env.STYLEGUIDE_PORT || process.env.PORT || '7000');
 
 // Files watcher
 watcher.start();

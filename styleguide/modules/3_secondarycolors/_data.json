@@ -1,0 +1,28 @@
+{
+    "id": "secondarycolors",
+    "name": "Secondary colors",
+    "items": {
+        "intro": ["Huge have four main colors: Purple, Dark, Grey and Light."],
+        "colors": [
+            {
+                "className": "fern-green"
+            }
+            ,
+            {
+                "className": "blue-danube"
+            }
+            ,
+            {
+                "className": "slate-grey"
+            }
+            ,
+            {
+                "className": "casablanca-yellow"
+            }
+            ,
+            {
+                "className": "chesnut-red"
+            }
+        ]
+    }
+}

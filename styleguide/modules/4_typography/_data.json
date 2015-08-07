@@ -1,0 +1,45 @@
+{
+    "id": "typography",
+    "name": "Typography",
+    "hasScript": "yes",
+    "items" : {
+        "fonts": [
+            {
+                "heading": "1",
+                "fontName" : "Lato Medium",
+                "fontSize": "100px",
+                "className": "LatoWebMedium",
+                "title": "Hello."
+            },
+            {
+                "heading": "2",
+                "fontName" : "Lato Medium",
+                "fontSize": "80px",
+                "className": "LatoWebMedium",
+                "title": "Hello."
+            },
+            {
+                "heading": "3",
+                "fontName" : "Lato Medium",
+                "fontSize": "38px",
+                "className": "LatoWebMedium",
+                "title": "Hello."
+            }
+        ],
+        "paragraphsName": "Paragraphs",
+        "paragraphs": [
+            {
+                "className": "p1",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },
+            {
+                "className": "p2",
+                "text": "Suspendisse tempor vulputate turpis vitae congue. Nam vulputate justo ut neque viverra elementum. Donec consectetur auctor ultricies. Maecenas nec nunc a augue tincidunt imperdiet. Duis fermentum tempus ante, vel consectetur arcu euismod quis. Morbi tincidunt nibh et sapien mattis porttitor. Phasellus vulputate dictum purus, quis tempor justo iaculis in."
+            },
+            {
+                "className": "p3 small-3",
+                "text": "Maecenas pulvinar pellentesque est, sed congue nunc lacinia mollis. Maecenas congue ullamcorper lobortis. Vestibulum facilisis sapien in hendrerit auctor."
+            }
+        ]
+    }
+}

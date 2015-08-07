@@ -1,0 +1,21 @@
+{
+    "id": "primarycolors",
+    "name": "Primary colors",
+    "items": {
+        "intro": ["Huge have four main colors: Purple, Dark, Grey and Light."],
+        "colors": [
+            {
+                "className": "akeneo-purple"
+            },
+            {
+                "className": "akeneo-dark"
+            },
+            {
+                "className": "akeneo-grey"
+            },
+            {
+                "className": "akeneo-light"
+            }
+        ]
+    }
+}
